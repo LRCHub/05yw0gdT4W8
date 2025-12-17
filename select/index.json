@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "デッドライン症候群",
+  "base_artist": "irom",
+  "createdAt": "2025-12-17T01:50:36.983962Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デッドライン症候群",
+      "artist": "irom",
+      "has_synced": false,
+      "path": "select/pl_01_デッドライン症候群_irom.txt"
+    }
+  ]
+}
